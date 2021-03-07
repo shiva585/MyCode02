@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52290" started-at="2021-02-05T22:08:58 PST" finished-at="2021-02-05T22:09:50 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52290" started-at="2021-02-05T22:08:58 PST" finished-at="2021-02-05T22:09:50 PST">
+      <class name="examples.Flipkart">
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:examples.Flipkart@49fc609f]" name="OpenApp" is-config="true" duration-ms="39222" started-at="2021-02-05T22:08:58 PST" finished-at="2021-02-05T22:09:37 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method status="PASS" signature="FP()[pri:0, instance:examples.Flipkart@49fc609f]" name="FP" duration-ms="12904" started-at="2021-02-05T22:09:37 PST" finished-at="2021-02-05T22:09:50 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP -->
+      </class> <!-- examples.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
